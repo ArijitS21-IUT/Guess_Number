@@ -4,4 +4,4 @@ Built an number guessing game using Html, CSS and JavaScript
 
 ### Demo Screeshots
 
-![Unigine Desktop Demo](.bg.jpg "Desktop Demo")
+![bg](https://github.com/user-attachments/assets/909198e1-4712-4c0d-a379-3555cdc94ba9)
